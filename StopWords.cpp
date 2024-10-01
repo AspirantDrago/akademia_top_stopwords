@@ -6,8 +6,8 @@
 
 using namespace std;
 
-#define FILE_IN "in.txt"
-#define FILE_OUT "out.txt"
+#define FILE_IN "input.txt"
+#define FILE_OUT "output.txt"
 #define STOP_FILE "stopwords.txt"
 
 set<string> stopwords;
